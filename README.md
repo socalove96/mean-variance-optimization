@@ -1,7 +1,7 @@
 # Mean-Variance Optimization Model
 The provided code performs a mean-variance optimization for a portfolio of stocks using historical price data. It uses the pandas, numpy, and matplotlib libraries for data manipulation and visualization. The yfinance, pandas_datareader, and fredapi libraries are used to fetch stock and macroeconomic data.
 
-The main_test() function is the entry point of the code. It reads a list of S&P 500 tickers from a CSV file and randomly selects a sample of 30 tickers. The historical adjusted close prices for these tickers are fetched from Yahoo Finance. It also retrieves the current risk-free rate from the FRED API.
+The main_test() function is the entry point of the code. It reads a list of S&P 500 tickers from a CSV file and randomly selects a sample of 10 tickers. The historical adjusted close prices for these tickers are fetched from Yahoo Finance. It also retrieves the current risk-free rate from the FRED API.
 
 The code then calculates the covariance matrix and correlation matrix for the stock returns. It calculates the annualized individual returns and standard deviations for each stock. These values are combined into a DataFrame called "assets." The Sharpe ratio is calculated for each stock to measure its risk-adjusted performance.
 
