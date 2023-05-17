@@ -23,7 +23,7 @@ def main_test():
     tickers = pd.read_csv(r"models/mean-variance-model/company-tickers-output.csv")["Ticker"].tolist()
 
     # Select a random sample of 10 tickers
-    tickers = np.random.choice(tickers, 30, replace=False)
+    tickers = np.random.choice(tickers, 10, replace=False)
 
     print("Sample tickers:", tickers)
 
