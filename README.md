@@ -1,3 +1,39 @@
+# Mean-Variance Optimization Repository
+
+This repository, located at [https://github.com/socalove96/mean-variance-optimization.git](https://github.com/socalove96/mean-variance-optimization.git), contains the code and files for my Mean-Variance Optimization project.
+
+## Description
+
+The Mean-Variance Optimization project focuses on implementing a portfolio optimization technique that aims to find the optimal allocation of assets in a portfolio based on their expected returns and variances. This technique allows investors to balance the trade-off between risk and return by constructing an efficient frontier of portfolios.
+
+## Features
+
+- **Mean-Variance Optimization Algorithm:** The repository includes the implementation of the mean-variance optimization algorithm, which calculates the optimal portfolio allocation based on expected returns and variances of assets.
+- **Data Processing:** It provides functions for processing and preparing input data, such as historical returns and covariance matrices, required for the optimization algorithm.
+- **Efficient Frontier Visualization:** The project includes tools for visualizing the efficient frontier, displaying the optimal portfolios that maximize returns for a given level of risk.
+- **Performance Evaluation:** It offers functions to evaluate the performance of the optimized portfolios, including metrics such as Sharpe ratio, volatility, and portfolio weights.
+
+## Installation
+
+To set up and run this Mean-Variance Optimization project locally, please follow these steps:
+
+1. Clone the repository using the following command:
+   ```
+   git clone https://github.com/socalove96/mean-variance-optimization.git
+   ```
+
+2. Navigate to the project directory:
+   ```
+   cd mean-variance-optimization
+   ```
+
+3. Install the required dependencies by running:
+   ```
+   pip install -r requirements.txt
+   ```
+
+4. Run the main script or explore the Jupyter notebooks provided to understand and utilize the Mean-Variance Optimization functionality.
+
 # Mean-Variance Optimization Model
 The provided code performs a mean-variance optimization for a portfolio of stocks using historical price data. It uses the pandas, numpy, and matplotlib libraries for data manipulation and visualization. The yfinance, pandas_datareader, and fredapi libraries are used to fetch stock and macroeconomic data.
 
@@ -31,3 +67,19 @@ Overall, this code implements a mean-variance optimization to construct efficien
 **Lack of out-of-sample testing:** The code does not reserve a separate dataset for out-of-sample testing. Evaluating the performance of optimized portfolios on unseen data can provide a better assessment of their effectiveness and robustness.
 
 **Lack of portfolio constraints:** The code does not include any portfolio constraints, such as minimum or maximum allocation limits, sector diversification requirements, or constraints on leverage. These constraints are common in practice and should be considered when constructing portfolios.
+
+## Contributing
+
+Thank you for your interest in contributing to the Mean-Variance Optimization project! If you have any suggestions, bug reports, or improvements, please feel free to open an issue or submit a pull request. Your contributions are greatly appreciated.
+
+## License
+
+This repository is licensed under the [MIT License](https://opensource.org/licenses/MIT). Please refer to the `LICENSE` file for more details.
+
+## Contact
+
+If you have any questions or would like to reach out, please feel free to contact me via email at alex.malek96@gmail.com(mailto:alex.malek96@gmail.com).
+
+Thank you for visiting the Mean-Variance Optimization repository!
+
+
