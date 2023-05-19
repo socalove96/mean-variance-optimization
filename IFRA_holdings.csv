@@ -1,0 +1,180 @@
+﻿Ticker,Name,Type,Sector,Asset Class,Market Value,Weight (%),Notional Value,Shares,Price,Location,Exchange,Currency,FX Rate,Market Currency,Accrual Date
+XTSLA,BLK CSH FND TREASURY SL AGENCY,STIF,Cash and/or Derivatives,Money Market,"22,638,549.60",1.27,"22,638,549.60","22,638,550.00",1,United States,-,USD,1,USD,-
+BLDR,BUILDERS FIRSTSOURCE INC,EQUITY,Industrials,Equity,"15,272,605.08",0.86,"15,272,605.08","124,868.00",122.31,United States,New York Stock Exchange Inc.,USD,1,USD,-
+VST,VISTRA CORP,EQUITY,Utilities,Equity,"15,246,600.72",0.85,"15,246,600.72","623,838.00",24.44,United States,New York Stock Exchange Inc.,USD,1,USD,-
+SO,SOUTHERN,EQUITY,Utilities,Equity,"14,642,907.65",0.82,"14,642,907.65","206,093.00",71.05,United States,New York Stock Exchange Inc.,USD,1,USD,-
+AQN,ALGONQUIN POWER UTILITIES CORP,EQUITY,Utilities,Equity,"14,416,240.80",0.81,"14,416,240.80","1,706,064.00",8.45,Canada,New York Stock Exchange Inc.,USD,1,USD,-
+FTS,FORTIS INC,EQUITY,Utilities,Equity,"14,286,071.95",0.8,"14,286,071.95","332,621.00",42.95,Canada,New York Stock Exchange Inc.,USD,1,USD,-
+MGEE,MGE ENERGY INC,EQUITY,Utilities,Equity,"14,211,211.40",0.8,"14,211,211.40","187,483.00",75.8,United States,NASDAQ,USD,1,USD,-
+ED,CONSOLIDATED EDISON INC,EQUITY,Utilities,Equity,"14,045,479.04",0.79,"14,045,479.04","147,289.00",95.36,United States,New York Stock Exchange Inc.,USD,1,USD,-
+POR,PORTLAND GENERAL ELECTRIC,EQUITY,Utilities,Equity,"13,941,299.58",0.78,"13,941,299.58","280,002.00",49.79,United States,New York Stock Exchange Inc.,USD,1,USD,-
+CSX,CSX CORP,EQUITY,Industrials,Equity,"13,893,042.70",0.78,"13,893,042.70","428,930.00",32.39,United States,NASDAQ,USD,1,USD,-
+CEG,CONSTELLATION ENERGY CORP,EQUITY,Utilities,Equity,"13,763,193.40",0.77,"13,763,193.40","169,081.00",81.4,United States,NASDAQ,USD,1,USD,-
+AWR,AMERICAN STATES WATER,EQUITY,Utilities,Equity,"13,743,213.16",0.77,"13,743,213.16","153,196.00",89.71,United States,New York Stock Exchange Inc.,USD,1,USD,-
+IDA,IDACORP INC,EQUITY,Utilities,Equity,"13,723,055.25",0.77,"13,723,055.25","129,475.00",105.99,United States,New York Stock Exchange Inc.,USD,1,USD,-
+UTL,UNITIL CORP,EQUITY,Utilities,Equity,"13,675,529.01",0.77,"13,675,529.01","245,213.00",55.77,United States,New York Stock Exchange Inc.,USD,1,USD,-
+ATO,ATMOS ENERGY CORP,EQUITY,Utilities,Equity,"13,672,152.59",0.77,"13,672,152.59","118,507.00",115.37,United States,New York Stock Exchange Inc.,USD,1,USD,-
+EIX,EDISON INTERNATIONAL,EQUITY,Utilities,Equity,"13,665,829.95",0.77,"13,665,829.95","198,487.00",68.85,United States,New York Stock Exchange Inc.,USD,1,USD,-
+PNW,PINNACLE WEST CORP,EQUITY,Utilities,Equity,"13,655,074.95",0.77,"13,655,074.95","174,595.00",78.21,United States,New York Stock Exchange Inc.,USD,1,USD,-
+OGE,OGE ENERGY CORP,EQUITY,Utilities,Equity,"13,653,668.27",0.77,"13,653,668.27","373,153.00",36.59,United States,New York Stock Exchange Inc.,USD,1,USD,-
+NEE,NEXTERA ENERGY INC,EQUITY,Utilities,Equity,"13,589,495.20",0.76,"13,589,495.20","180,952.00",75.1,United States,New York Stock Exchange Inc.,USD,1,USD,-
+PEG,PUBLIC SERVICE ENTERPRISE GROUP IN,EQUITY,Utilities,Equity,"13,572,408.33",0.76,"13,572,408.33","221,013.00",61.41,United States,New York Stock Exchange Inc.,USD,1,USD,-
+AWK,AMERICAN WATER WORKS INC,EQUITY,Utilities,Equity,"13,553,072.98",0.76,"13,553,072.98","95,626.00",141.73,United States,New York Stock Exchange Inc.,USD,1,USD,-
+BKH,BLACK HILLS CORP,EQUITY,Utilities,Equity,"13,539,658.11",0.76,"13,539,658.11","214,269.00",63.19,United States,New York Stock Exchange Inc.,USD,1,USD,-
+XEL,XCEL ENERGY INC,EQUITY,Utilities,Equity,"13,516,458.13",0.76,"13,516,458.13","205,199.00",65.87,United States,NASDAQ,USD,1,USD,-
+NWE,NORTHWESTERN CORP,EQUITY,Utilities,Equity,"13,514,873.06",0.76,"13,514,873.06","231,538.00",58.37,United States,NASDAQ,USD,1,USD,-
+PCG,PG&E CORP,EQUITY,Utilities,Equity,"13,514,251.68",0.76,"13,514,251.68","816,078.00",16.56,United States,New York Stock Exchange Inc.,USD,1,USD,-
+LNT,ALLIANT ENERGY CORP,EQUITY,Utilities,Equity,"13,505,476.32",0.76,"13,505,476.32","256,563.00",52.64,United States,NASDAQ,USD,1,USD,-
+KNTK,KINETIK HOLDINGS INC CLASS A,EQUITY,Energy,Equity,"13,403,765.10",0.75,"13,403,765.10","424,842.00",31.55,United States,New York Stock Exchange Inc.,USD,1,USD,-
+AVA,AVISTA CORP,EQUITY,Utilities,Equity,"13,393,927.56",0.75,"13,393,927.56","315,003.00",42.52,United States,New York Stock Exchange Inc.,USD,1,USD,-
+CNP,CENTERPOINT ENERGY INC,EQUITY,Utilities,Equity,"13,373,255.88",0.75,"13,373,255.88","470,227.00",28.44,United States,New York Stock Exchange Inc.,USD,1,USD,-
+WEC,WEC ENERGY GROUP INC,EQUITY,Utilities,Equity,"13,322,380.80",0.75,"13,322,380.80","149,120.00",89.34,United States,New York Stock Exchange Inc.,USD,1,USD,-
+DTE,DTE ENERGY,EQUITY,Utilities,Equity,"13,304,204.10",0.75,"13,304,204.10","122,169.00",108.9,United States,New York Stock Exchange Inc.,USD,1,USD,-
+ARTNA,ARTESIAN RESOURCES CORP CLASS A,EQUITY,Utilities,Equity,"13,302,451.80",0.75,"13,302,451.80","241,380.00",55.11,United States,NASDAQ,USD,1,USD,-
+AEE,AMEREN CORP,EQUITY,Utilities,Equity,"13,300,921.60",0.75,"13,300,921.60","159,560.00",83.36,United States,New York Stock Exchange Inc.,USD,1,USD,-
+EVRG,EVERGY INC,EQUITY,Utilities,Equity,"13,288,953.76",0.74,"13,288,953.76","224,324.00",59.24,United States,NASDAQ,USD,1,USD,-
+NRG,NRG ENERGY INC,EQUITY,Utilities,Equity,"13,288,639.00",0.74,"13,288,639.00","397,150.00",33.46,United States,New York Stock Exchange Inc.,USD,1,USD,-
+PPL,PPL CORP,EQUITY,Utilities,Equity,"13,276,881.64",0.74,"13,276,881.64","487,762.00",27.22,United States,New York Stock Exchange Inc.,USD,1,USD,-
+SJW,SJW GROUP,EQUITY,Utilities,Equity,"13,262,371.93",0.74,"13,262,371.93","176,291.00",75.23,United States,New York Stock Exchange Inc.,USD,1,USD,-
+YORW,YORK WATER,EQUITY,Utilities,Equity,"13,258,060.47",0.74,"13,258,060.47","307,683.00",43.09,United States,NASDAQ,USD,1,USD,-
+NI,NISOURCE INC,EQUITY,Utilities,Equity,"13,196,083.68",0.74,"13,196,083.68","482,313.00",27.36,United States,New York Stock Exchange Inc.,USD,1,USD,-
+ALE,ALLETE INC,EQUITY,Utilities,Equity,"13,177,623.20",0.74,"13,177,623.20","214,340.00",61.48,United States,New York Stock Exchange Inc.,USD,1,USD,-
+GLDD,GREAT LAKES DREDGE AND DOCK CORP,EQUITY,Industrials,Equity,"13,136,566.95",0.74,"13,136,566.95","1,917,747.00",6.85,United States,NASDAQ,USD,1,USD,-
+OGS,ONE GAS INC,EQUITY,Utilities,Equity,"13,133,630.84",0.74,"13,133,630.84","164,747.00",79.72,United States,New York Stock Exchange Inc.,USD,1,USD,-
+AGR,AVANGRID INC,EQUITY,Utilities,Equity,"13,115,271.30",0.73,"13,115,271.30","339,510.00",38.63,United States,New York Stock Exchange Inc.,USD,1,USD,-
+CMS,CMS ENERGY CORP,EQUITY,Utilities,Equity,"13,097,727.72",0.73,"13,097,727.72","222,978.00",58.74,United States,New York Stock Exchange Inc.,USD,1,USD,-
+AM,ANTERO MIDSTREAM CORP,EQUITY,Energy,Equity,"13,072,105.38",0.73,"13,072,105.38","1,234,382.00",10.59,United States,New York Stock Exchange Inc.,USD,1,USD,-
+CWT,CALIFORNIA WATER SERVICE GROUP,EQUITY,Utilities,Equity,"13,036,039.38",0.73,"13,036,039.38","235,053.00",55.46,United States,New York Stock Exchange Inc.,USD,1,USD,-
+SRE,SEMPRA,EQUITY,Utilities,Equity,"13,025,413.62",0.73,"13,025,413.62","88,542.00",147.11,United States,New York Stock Exchange Inc.,USD,1,USD,-
+ES,EVERSOURCE ENERGY,EQUITY,Utilities,Equity,"13,020,874.92",0.73,"13,020,874.92","176,866.00",73.62,United States,New York Stock Exchange Inc.,USD,1,USD,-
+DUK,DUKE ENERGY CORP,EQUITY,Utilities,Equity,"12,981,891.56",0.73,"12,981,891.56","139,876.00",92.81,United States,New York Stock Exchange Inc.,USD,1,USD,-
+AEP,AMERICAN ELECTRIC POWER INC,EQUITY,Utilities,Equity,"12,975,899.52",0.73,"12,975,899.52","149,768.00",86.64,United States,NASDAQ,USD,1,USD,-
+TRP,TC ENERGY CORP,EQUITY,Energy,Equity,"12,953,589.18",0.73,"12,953,589.18","323,274.00",40.07,Canada,New York Stock Exchange Inc.,USD,1,USD,-
+SR,SPIRE INC,EQUITY,Utilities,Equity,"12,942,941.33",0.73,"12,942,941.33","190,927.00",67.79,United States,New York Stock Exchange Inc.,USD,1,USD,-
+ETR,ENTERGY CORP,EQUITY,Utilities,Equity,"12,905,725.00",0.72,"12,905,725.00","127,150.00",101.5,United States,New York Stock Exchange Inc.,USD,1,USD,-
+WTRG,ESSENTIAL UTILITIES INC,EQUITY,Utilities,Equity,"12,870,390.81",0.72,"12,870,390.81","318,023.00",40.47,United States,New York Stock Exchange Inc.,USD,1,USD,-
+CPK,CHESAPEAKE UTILITIES CORP,EQUITY,Utilities,Equity,"12,832,067.64",0.72,"12,832,067.64","102,468.00",125.23,United States,New York Stock Exchange Inc.,USD,1,USD,-
+FE,FIRSTENERGY CORP,EQUITY,Utilities,Equity,"12,762,533.34",0.72,"12,762,533.34","336,033.00",37.98,United States,New York Stock Exchange Inc.,USD,1,USD,-
+NJR,NEW JERSEY RESOURCES CORP,EQUITY,Utilities,Equity,"12,741,455.33",0.71,"12,741,455.33","260,189.00",48.97,United States,New York Stock Exchange Inc.,USD,1,USD,-
+ENB,ENBRIDGE INC,EQUITY,Energy,Equity,"12,732,010.20",0.71,"12,732,010.20","343,644.00",37.05,Canada,New York Stock Exchange Inc.,USD,1,USD,-
+EXC,EXELON CORP,EQUITY,Utilities,Equity,"12,701,147.94",0.71,"12,701,147.94","322,446.00",39.39,United States,NASDAQ,USD,1,USD,-
+UNP,UNION PACIFIC CORP,EQUITY,Industrials,Equity,"12,689,843.49",0.71,"12,689,843.49","63,829.00",198.81,United States,New York Stock Exchange Inc.,USD,1,USD,-
+NSC,NORFOLK SOUTHERN CORP,EQUITY,Industrials,Equity,"12,648,106.70",0.71,"12,648,106.70","58,510.00",216.17,United States,New York Stock Exchange Inc.,USD,1,USD,-
+SSD,SIMPSON MANUFACTURING INC,EQUITY,Industrials,Equity,"12,638,252.54",0.71,"12,638,252.54","99,178.00",127.43,United States,New York Stock Exchange Inc.,USD,1,USD,-
+ETRN,EQUITRANS MIDSTREAM CORP,EQUITY,Energy,Equity,"12,623,677.26",0.71,"12,623,677.26","2,128,782.00",5.93,United States,New York Stock Exchange Inc.,USD,1,USD,-
+WMB,WILLIAMS INC,EQUITY,Energy,Equity,"12,585,362.18",0.71,"12,585,362.18","430,858.00",29.21,United States,New York Stock Exchange Inc.,USD,1,USD,-
+D,DOMINION ENERGY INC,EQUITY,Utilities,Equity,"12,582,459.96",0.71,"12,582,459.96","238,847.00",52.68,United States,New York Stock Exchange Inc.,USD,1,USD,-
+HWKN,HAWKINS INC,EQUITY,Materials,Equity,"12,582,085.14",0.71,"12,582,085.14","264,274.00",47.61,United States,NASDAQ,USD,1,USD,-
+PNM,PNM RESOURCES INC,EQUITY,Utilities,Equity,"12,534,945.28",0.7,"12,534,945.28","273,152.00",45.89,United States,New York Stock Exchange Inc.,USD,1,USD,-
+KMI,KINDER MORGAN INC,EQUITY,Energy,Equity,"12,488,806.12",0.7,"12,488,806.12","755,981.00",16.52,United States,New York Stock Exchange Inc.,USD,1,USD,-
+HSC,HARSCO CORP,EQUITY,Industrials,Equity,"12,457,874.13",0.7,"12,457,874.13","1,329,549.00",9.37,United States,New York Stock Exchange Inc.,USD,1,USD,-
+MLM,MARTIN MARIETTA MATERIALS INC,EQUITY,Materials,Equity,"12,422,605.02",0.7,"12,422,605.02","30,461.00",407.82,United States,New York Stock Exchange Inc.,USD,1,USD,-
+DTM,DT MIDSTREAM INC,EQUITY,Energy,Equity,"12,349,036.38",0.69,"12,349,036.38","258,186.00",47.83,United States,New York Stock Exchange Inc.,USD,1,USD,-
+XPEL,XPEL INC,EQUITY,Consumer Discretionary,Equity,"12,318,490.09",0.69,"12,318,490.09","166,219.00",74.11,United States,NASDAQ,USD,1,USD,-
+NWN,NORTHWEST NATURAL HOLDING COMPANY,EQUITY,Utilities,Equity,"12,300,868.00",0.69,"12,300,868.00","276,424.00",44.5,United States,New York Stock Exchange Inc.,USD,1,USD,-
+OC,OWENS CORNING,EQUITY,Industrials,Equity,"12,259,559.46",0.69,"12,259,559.46","109,833.00",111.62,United States,New York Stock Exchange Inc.,USD,1,USD,-
+WMS,ADVANCED DRAINAGE SYSTEMS INC,EQUITY,Industrials,Equity,"12,202,190.40",0.68,"12,202,190.40","124,006.00",98.4,United States,New York Stock Exchange Inc.,USD,1,USD,-
+TREX,TREX INC,EQUITY,Industrials,Equity,"12,145,187.25",0.68,"12,145,187.25","210,525.00",57.69,United States,New York Stock Exchange Inc.,USD,1,USD,-
+BCC,BOISE CASCADE,EQUITY,Industrials,Equity,"12,106,337.88",0.68,"12,106,337.88","158,377.00",76.44,United States,New York Stock Exchange Inc.,USD,1,USD,-
+MYRG,MYR GROUP INC,EQUITY,Industrials,Equity,"12,030,958.10",0.67,"12,030,958.10","90,370.00",133.13,United States,NASDAQ,USD,1,USD,-
+HE,HAWAIIAN ELECTRIC INDUSTRIES INC,EQUITY,Utilities,Equity,"11,999,785.80",0.67,"11,999,785.80","333,420.00",35.99,United States,New York Stock Exchange Inc.,USD,1,USD,-
+VMC,VULCAN MATERIALS,EQUITY,Materials,Equity,"11,978,456.67",0.67,"11,978,456.67","60,987.00",196.41,United States,New York Stock Exchange Inc.,USD,1,USD,-
+STRL,STERLING INFRASTRUCTURE INC,EQUITY,Industrials,Equity,"11,948,195.08",0.67,"11,948,195.08","273,289.00",43.72,United States,NASDAQ,USD,1,USD,-
+ARNC,ARCONIC CORP,EQUITY,Materials,Equity,"11,819,736.81",0.66,"11,819,736.81","409,129.00",28.89,United States,New York Stock Exchange Inc.,USD,1,USD,-
+SUM,SUMMIT MATERIALS INC CLASS A,EQUITY,Materials,Equity,"11,807,004.88",0.66,"11,807,004.88","362,623.00",32.56,United States,New York Stock Exchange Inc.,USD,1,USD,-
+PWR,QUANTA SERVICES INC,EQUITY,Industrials,Equity,"11,736,992.98",0.66,"11,736,992.98","68,282.00",171.89,United States,New York Stock Exchange Inc.,USD,1,USD,-
+ROCK,GIBRALTAR INDUSTRIES INC,EQUITY,Industrials,Equity,"11,707,491.47",0.66,"11,707,491.47","206,009.00",56.83,United States,NASDAQ,USD,1,USD,-
+LPX,LOUISIANA PACIFIC CORP,EQUITY,Materials,Equity,"11,674,702.12",0.65,"11,674,702.12","184,318.00",63.34,United States,New York Stock Exchange Inc.,USD,1,USD,-
+AGX,ARGAN INC,EQUITY,Industrials,Equity,"11,626,969.18",0.65,"11,626,969.18","278,557.00",41.74,United States,New York Stock Exchange Inc.,USD,1,USD,-
+MLI,MUELLER INDUSTRIES INC,EQUITY,Industrials,Equity,"11,612,714.71",0.65,"11,612,714.71","147,613.00",78.67,United States,New York Stock Exchange Inc.,USD,1,USD,-
+OKE,ONEOK INC,EQUITY,Energy,Equity,"11,499,166.98",0.64,"11,499,166.98","196,971.00",58.38,United States,New York Stock Exchange Inc.,USD,1,USD,-
+ENLC,ENLINK MIDSTREAM COMMON UNITS,EQUITY,Energy,Equity,"11,396,543.70",0.64,"11,396,543.70","1,152,330.00",9.89,United States,New York Stock Exchange Inc.,USD,1,USD,-
+AZEK,AZEK COMPANY INC CLASS A,EQUITY,Industrials,Equity,"11,391,125.00",0.64,"11,391,125.00","455,645.00",25,United States,New York Stock Exchange Inc.,USD,1,USD,-
+ROAD,CONSTRUCTION PARTNERS INC CLASS A,EQUITY,Industrials,Equity,"11,373,838.00",0.64,"11,373,838.00","396,025.00",28.72,United States,NASDAQ,USD,1,USD,-
+FIX,COMFORT SYSTEMS USA INC,EQUITY,Industrials,Equity,"11,348,622.34",0.64,"11,348,622.34","73,678.00",154.03,United States,New York Stock Exchange Inc.,USD,1,USD,-
+TTEK,TETRA TECH INC,EQUITY,Industrials,Equity,"11,331,538.14",0.64,"11,331,538.14","79,026.00",143.39,United States,NASDAQ,USD,1,USD,-
+IIIN,INSTEEL INDUSTRIES INC,EQUITY,Industrials,Equity,"11,265,754.08",0.63,"11,265,754.08","362,476.00",31.08,United States,New York Stock Exchange Inc.,USD,1,USD,-
+ECVT,ECOVYST INC,EQUITY,Materials,Equity,"11,129,689.71",0.62,"11,129,689.71","1,010,871.00",11.01,United States,New York Stock Exchange Inc.,USD,1,USD,-
+STN,STANTEC INC,EQUITY,Industrials,Equity,"11,052,592.98",0.62,"11,052,592.98","189,354.00",58.37,Canada,New York Stock Exchange Inc.,USD,1,USD,-
+EME,EMCOR GROUP INC,EQUITY,Industrials,Equity,"10,980,687.57",0.62,"10,980,687.57","65,867.00",166.71,United States,New York Stock Exchange Inc.,USD,1,USD,-
+WFG,WEST FRASER TIMBER LTD,EQUITY,Materials,Equity,"10,945,553.52",0.61,"10,945,553.52","143,869.00",76.08,Canada,New York Stock Exchange Inc.,USD,1,USD,-
+PRIM,PRIMORIS SERVICES CORP,EQUITY,Industrials,Equity,"10,904,374.46",0.61,"10,904,374.46","399,574.00",27.29,United States,New York Stock Exchange Inc.,USD,1,USD,-
+BXC,BLUELINX HOLDINGS INC,EQUITY,Industrials,Equity,"10,894,675.00",0.61,"10,894,675.00","125,950.00",86.5,United States,New York Stock Exchange Inc.,USD,1,USD,-
+APG,API GROUP CORP,EQUITY,Industrials,Equity,"10,875,999.38",0.61,"10,875,999.38","461,434.00",23.57,United States,New York Stock Exchange Inc.,USD,1,USD,-
+POOL,POOL CORP,EQUITY,Consumer Discretionary,Equity,"10,866,813.30",0.61,"10,866,813.30","30,765.00",353.22,United States,NASDAQ,USD,1,USD,-
+MTZ,MASTEC INC,EQUITY,Industrials,Equity,"10,754,378.19",0.6,"10,754,378.19","108,861.00",98.79,United States,New York Stock Exchange Inc.,USD,1,USD,-
+EMN,EASTMAN CHEMICAL,EQUITY,Materials,Equity,"10,633,451.40",0.6,"10,633,451.40","127,530.00",83.38,United States,New York Stock Exchange Inc.,USD,1,USD,-
+SWX,SOUTHWEST GAS HOLDINGS INC,EQUITY,Utilities,Equity,"10,523,685.15",0.59,"10,523,685.15","184,335.00",57.09,United States,New York Stock Exchange Inc.,USD,1,USD,-
+J,JACOBS SOLUTIONS INC,EQUITY,Industrials,Equity,"10,506,845.44",0.59,"10,506,845.44","90,203.00",116.48,United States,New York Stock Exchange Inc.,USD,1,USD,-
+WLK,WESTLAKE CORP,EQUITY,Materials,Equity,"10,458,654.83",0.59,"10,458,654.83","89,291.00",117.13,United States,New York Stock Exchange Inc.,USD,1,USD,-
+RS,RELIANCE STEEL & ALUMINUM,EQUITY,Materials,Equity,"10,420,350.60",0.58,"10,420,350.60","42,215.00",246.84,United States,New York Stock Exchange Inc.,USD,1,USD,-
+LYB,LYONDELLBASELL INDUSTRIES NV CLASS,EQUITY,Materials,Equity,"10,304,357.68",0.58,"10,304,357.68","114,442.00",90.04,United States,New York Stock Exchange Inc.,USD,1,USD,-
+WOR,WORTHINGTON INDUSTRIES INC,EQUITY,Materials,Equity,"10,218,750.65",0.57,"10,218,750.65","177,563.00",57.55,United States,New York Stock Exchange Inc.,USD,1,USD,-
+NFE,NEW FORTRESS ENERGY INC CLASS A,EQUITY,Energy,Equity,"10,202,966.10",0.57,"10,202,966.10","369,405.00",27.62,United States,NASDAQ,USD,1,USD,-
+LXFR,LUXFER HOLDINGS PLC,EQUITY,Industrials,Equity,"10,194,161.64",0.57,"10,194,161.64","692,068.00",14.73,United States,New York Stock Exchange Inc.,USD,1,USD,-
+MDU,MDU RESOURCES GROUP INC,EQUITY,Industrials,Equity,"10,191,956.32",0.57,"10,191,956.32","351,568.00",28.99,United States,New York Stock Exchange Inc.,USD,1,USD,-
+CRS,CARPENTER TECHNOLOGY CORP,EQUITY,Materials,Equity,"10,135,494.60",0.57,"10,135,494.60","213,829.00",47.4,United States,New York Stock Exchange Inc.,USD,1,USD,-
+TMST,TIMKENSTEEL CORP,EQUITY,Materials,Equity,"10,103,726.08",0.57,"10,103,726.08","563,824.00",17.92,United States,New York Stock Exchange Inc.,USD,1,USD,-
+SLCA,US SILICA HOLDINGS INC,EQUITY,Energy,Equity,"9,985,105.52",0.56,"9,985,105.52","799,448.00",12.49,United States,New York Stock Exchange Inc.,USD,1,USD,-
+NVEE,NV5 GLOBAL INC,EQUITY,Industrials,Equity,"9,928,630.08",0.56,"9,928,630.08","104,976.00",94.58,United States,NASDAQ,USD,1,USD,-
+ACM,AECOM,EQUITY,Industrials,Equity,"9,896,040.95",0.55,"9,896,040.95","123,995.00",79.81,United States,New York Stock Exchange Inc.,USD,1,USD,-
+RYI,RYERSON HOLDING CORP,EQUITY,Materials,Equity,"9,686,227.00",0.54,"9,686,227.00","270,565.00",35.8,United States,New York Stock Exchange Inc.,USD,1,USD,-
+VMI,VALMONT INDS INC,EQUITY,Industrials,Equity,"9,594,369.84",0.54,"9,594,369.84","33,352.00",287.67,United States,New York Stock Exchange Inc.,USD,1,USD,-
+GVA,GRANITE CONSTRUCTION INC,EQUITY,Industrials,Equity,"9,572,846.40",0.54,"9,572,846.40","255,685.00",37.44,United States,New York Stock Exchange Inc.,USD,1,USD,-
+ATI,ATI INC,EQUITY,Materials,Equity,"9,498,559.84",0.53,"9,498,559.84","260,092.00",36.52,United States,New York Stock Exchange Inc.,USD,1,USD,-
+AWI,ARMSTRONG WORLD INDUSTRIES INC,EQUITY,Industrials,Equity,"9,467,721.25",0.53,"9,467,721.25","142,909.00",66.25,United States,New York Stock Exchange Inc.,USD,1,USD,-
+OFLX,OMEGA FLEX INC,EQUITY,Industrials,Equity,"9,459,790.06",0.53,"9,459,790.06","91,126.00",103.81,United States,NASDAQ,USD,1,USD,-
+CMC,COMMERCIAL METALS,EQUITY,Materials,Equity,"9,312,195.97",0.52,"9,312,195.97","204,979.00",45.43,United States,New York Stock Exchange Inc.,USD,1,USD,-
+CMP,COMPASS MINERALS INTERNATIONAL INC,EQUITY,Materials,Equity,"9,281,790.24",0.52,"9,281,790.24","272,353.00",34.08,United States,New York Stock Exchange Inc.,USD,1,USD,-
+ASIX,ADVANSIX INC,EQUITY,Materials,Equity,"9,256,254.54",0.52,"9,256,254.54","266,674.00",34.71,United States,New York Stock Exchange Inc.,USD,1,USD,-
+GBX,GREENBRIER INC,EQUITY,Industrials,Equity,"9,251,723.04",0.52,"9,251,723.04","336,304.00",27.51,United States,New York Stock Exchange Inc.,USD,1,USD,-
+APOG,APOGEE ENTERPRISES INC,EQUITY,Industrials,Equity,"9,083,426.78",0.51,"9,083,426.78","232,789.00",39.02,United States,NASDAQ,USD,1,USD,-
+ASTL,ALGOMA STEEL GROUP INC,EQUITY,Materials,Equity,"9,037,542.72",0.51,"9,037,542.72","1,227,927.00",7.36,Canada,NASDAQ,USD,1,USD,-
+CSL,CARLISLE COMPANIES INC,EQUITY,Industrials,Equity,"9,015,347.78",0.51,"9,015,347.78","41,926.00",215.03,United States,New York Stock Exchange Inc.,USD,1,USD,-
+TEX,TEREX CORP,EQUITY,Industrials,Equity,"8,986,459.19",0.5,"8,986,459.19","184,489.00",48.71,United States,New York Stock Exchange Inc.,USD,1,USD,-
+ASTE,ASTEC INDUSTRIES INC,EQUITY,Industrials,Equity,"8,906,735.20",0.5,"8,906,735.20","225,830.00",39.44,United States,NASDAQ,USD,1,USD,-
+NUE,NUCOR CORP,EQUITY,Materials,Equity,"8,749,544.16",0.49,"8,749,544.16","62,372.00",140.28,United States,New York Stock Exchange Inc.,USD,1,USD,-
+ALTG,ALTA EQUIPMENT GROUP INC CLASS A,EQUITY,Industrials,Equity,"8,747,377.47",0.49,"8,747,377.47","575,107.00",15.21,United States,New York Stock Exchange Inc.,USD,1,USD,-
+TGB,TASEKO MINES LTD,EQUITY,Materials,Equity,"8,686,321.28",0.49,"8,686,321.28","6,249,152.00",1.39,Canada,Nyse Mkt Llc,USD,1,USD,-
+HAYN,HAYNES INTERNATIONAL INC,EQUITY,Materials,Equity,"8,538,646.71",0.48,"8,538,646.71","189,453.00",45.07,United States,NASDAQ,USD,1,USD,-
+TRN,TRINITY INDUSTRIES INC,EQUITY,Industrials,Equity,"8,472,670.75",0.47,"8,472,670.75","396,475.00",21.37,United States,New York Stock Exchange Inc.,USD,1,USD,-
+ZEUS,OLYMPIC STEEL INC,EQUITY,Materials,Equity,"8,430,035.50",0.47,"8,430,035.50","189,439.00",44.5,United States,NASDAQ,USD,1,USD,-
+FLR,FLUOR CORP,EQUITY,Industrials,Equity,"8,416,405.68",0.47,"8,416,405.68","296,248.00",28.41,United States,New York Stock Exchange Inc.,USD,1,USD,-
+KALU,KAISER ALUMINIUM CORP,EQUITY,Materials,Equity,"8,394,260.49",0.47,"8,394,260.49","131,923.00",63.63,United States,NASDAQ,USD,1,USD,-
+STLD,STEEL DYNAMICS INC,EQUITY,Materials,Equity,"7,998,608.37",0.45,"7,998,608.37","81,777.00",97.81,United States,NASDAQ,USD,1,USD,-
+URI,UNITED RENTALS INC,EQUITY,Industrials,Equity,"7,997,026.56",0.45,"7,997,026.56","23,204.00",344.64,United States,New York Stock Exchange Inc.,USD,1,USD,-
+X,US STEEL CORP,EQUITY,Materials,Equity,"7,862,967.39",0.44,"7,862,967.39","354,667.00",22.17,United States,New York Stock Exchange Inc.,USD,1,USD,-
+TPC,TUTOR PERINI CORP,EQUITY,Industrials,Equity,"7,792,677.18",0.44,"7,792,677.18","1,260,951.00",6.18,United States,New York Stock Exchange Inc.,USD,1,USD,-
+NWPX,NORTHWEST PIPE,EQUITY,Industrials,Equity,"7,654,780.98",0.43,"7,654,780.98","277,046.00",27.63,United States,NASDAQ,USD,1,USD,-
+CLF,CLEVELAND CLIFFS INC,EQUITY,Materials,Equity,"7,507,261.32",0.42,"7,507,261.32","488,436.00",15.37,United States,New York Stock Exchange Inc.,USD,1,USD,-
+SPWR,SUNPOWER CORP,EQUITY,Industrials,Equity,"7,500,916.50",0.42,"7,500,916.50","714,373.00",10.5,United States,NASDAQ,USD,1,USD,-
+HEES,H AND E EQUIPMENT SERVICES INC,EQUITY,Industrials,Equity,"7,493,069.76",0.42,"7,493,069.76","199,496.00",37.56,United States,NASDAQ,USD,1,USD,-
+LXU,LSB INDUSTRIES INC,EQUITY,Materials,Equity,"7,257,910.66",0.41,"7,257,910.66","767,221.00",9.46,United States,New York Stock Exchange Inc.,USD,1,USD,-
+TG,TREDEGAR CORP,EQUITY,Materials,Equity,"7,216,241.01",0.4,"7,216,241.01","933,537.00",7.73,United States,New York Stock Exchange Inc.,USD,1,USD,-
+MSEX,MIDDLESEX WATER,EQUITY,Utilities,Equity,"7,067,305.60",0.4,"7,067,305.60","92,504.00",76.4,United States,NASDAQ,USD,1,USD,-
+CENX,CENTURY ALUMINUM,EQUITY,Materials,Equity,"6,948,172.35",0.39,"6,948,172.35","863,127.00",8.05,United States,NASDAQ,USD,1,USD,-
+NGVT,INGEVITY CORP,EQUITY,Materials,Equity,"6,811,823.64",0.38,"6,811,823.64","136,182.00",50.02,United States,New York Stock Exchange Inc.,USD,1,USD,-
+MSEX,MIDDLESEX WATER,SWAP,Utilities,Equity,"6,355,410.40",0.36,"6,355,410.40","83,186.00",76.4,United States,NASDAQ,USD,1,USD,-
+HSBBK,CASH COLLATERAL USD HSBSW,COLLATERAL,Cash and/or Derivatives,Cash Collateral and Margins,"721,712.20",0.04,"721,712.20","720,000.00",100,United States,-,USD,1,USD,01-Jan-01
+WFFUT,CASH COLLATERAL USD WFFUT,COLLATERAL,Cash and/or Derivatives,Cash Collateral and Margins,"402,000.00",0.02,"402,000.00","402,000.00",100,United States,-,USD,1,USD,23-Aug-17
+CAD,CAD CASH,CASH,Cash and/or Derivatives,Cash,"309,952.70",0.02,"309,952.70","417,987.00",74.15,Canada,-,USD,1.35,CAD,-
+AVA,AVISTA CORP,SWAP,Utilities,Equity,"264,176.76",0.01,"264,176.76","6,213.00",42.52,United States,New York Stock Exchange Inc.,USD,1,USD,-
+GSISW,CASH COLLATERAL USD GSISW,COLLATERAL,Cash and/or Derivatives,Cash Collateral and Margins,"90,000.00",0.01,"90,000.00","90,000.00",100,United States,-,USD,1,USD,01-May-02
+USD,USD CASH(Corp Act),CASH,Cash and/or Derivatives,Cash,"87,695.18",0,"87,695.18","87,695.00",100,United States,-,USD,1,USD,-
+CPK,CHESAPEAKE UTILITIES CORP,SWAP,Utilities,Equity,"81,149.04",0,"81,149.04",648,125.23,United States,New York Stock Exchange Inc.,USD,1,USD,-
+IXPM3,EMINI ENERGY SELECT SECTOR JUN 23,INDEX,Cash and/or Derivatives,Futures,0,0,"497,520.00",6,829.2,-,Chicago Mercantile Exchange,USD,1,USD,-
+IXSM3,E-MINI UTILITIES SELECT SECTOR JUN,INDEX,Cash and/or Derivatives,Futures,0,0,"2,140,160.00",32,668.8,-,Chicago Mercantile Exchange,USD,1,USD,-
+FAM3,S&P MID 400 EMINI JUN 23,INDEX,Cash and/or Derivatives,Futures,0,0,"4,223,820.00",17,"2,484.60",-,Index And Options Market,USD,1,USD,-
+USD,USD CASH,CASH,Cash and/or Derivatives,Cash,"-17,078,544.09",-0.96,"-17,078,544.09","-17,078,543.00",100,United States,-,USD,1,USD,-
+ ,,,,,,,,,,,,,,,
+"The content contained herein is owned or licensed by BlackRock and/or its third-party information providers and is protected by applicable copyrights, trademarks, service marks, and/or other intellectual property rights. Such content is solely for your personal, non-commercial use. Accordingly, you may not copy, distribute, modify, post, frame or deep link this content. You may download material displayed on this Website for your personal use provided you also retain all copyright and other proprietary notices contained on the materials. Modification or use of the materials for any other purpose violates BlackRock's intellectual property rights.
+Holdings subject to change. See www.iShares.com for the most recent funds holdings.
+The values for “price” shown herein generally represent a price provided by a third-party pricing vendor for the portfolio holding and do not reflect the impact of systematic fair valuation (“the vendor price”). The vendor price is not necessarily the price at which the Fund values the portfolio holding for the purposes of determining its net asset value (the “valuation price”). Additionally, where applicable, foreign currency exchange rates with respect to the portfolio holdings denominated in non-U.S. currencies for the valuation price will be generally determined as of the close of business on the New York Stock Exchange, whereas for the vendor price will be generally determined as of 4 p.m. London. The values shown herein for “market value,” “weight,” and “notional value” (the “calculated values”) are based off of the vendor price and may have been different if the valuation price were to have been used to calculate such values. The vendor price is as of the most recent practicable date and may not necessarily be as of the date shown above.
+Please see the “Determination of Net Asset Value” section of each Fund’s prospectus for additional information on the Fund’s valuation policies and procedures.
+CAREFULLY CONSIDER THE FUNDS' INVESTMENT OBJECTIVES, RISK FACTORS, AND CHARGES AND EXPENSES BEFORE INVESTING. THIS AND OTHER INFORMATION CAN BE FOUND IN THE FUNDS' PROSPECTUSES OR, IF AVAILABLE, THE SUMMARY PROSPECTUSES WHICH MAY BE OBTAINED BY VISITING WWW.ISHARES.COM OR WWW.BLACKROCK.COM. READ THE PROSPECTUS CAREFULLY BEFORE INVESTING. INVESTING INVOLVES RISK, INCLUDING POSSIBLE LOSS OF PRINCIPAL.
+This information should not be relied upon as research, investment advice, or a recommendation regarding any products, strategies, or any security in particular.
+This material is strictly for illustrative, educational, or informational purposes and is subject to change.
+The Funds are distributed by BlackRock Investments, LLC (together with its affiliates, “BlackRock”).
+The iShares Funds are not sponsored, endorsed, issued, sold or promoted by Bloomberg, BlackRock Index Services, LLC, Cboe Global Indices, LLC, Cohen & Steers, European Public Real Estate Association (“EPRA® ”), FTSE International Limited (“FTSE”), ICE Data Indices, LLC, NSE Indices Ltd, JPMorgan, JPX Group, London Stock Exchange Group (“LSEG”), MSCI Inc., Markit Indices Limited, Morningstar, Inc., Nasdaq, Inc., National Association of Real Estate Investment Trusts (“NAREIT”), Nikkei, Inc., Russell, S&P Dow Jones Indices LLC or STOXX Ltd. None of these companies make any representation regarding the advisability of investing in the Funds. With the exception of BlackRock Index Services, LLC, who is an affiliate, BlackRock Investments, LLC is not affiliated with the companies listed above. Neither FTSE, LSEG, nor NAREIT makes any warranty regarding the FTSE Nareit Equity REITS Index, FTSE Nareit All Residential Capped Index or FTSE Nareit All Mortgage Capped Index. Neither FTSE, EPRA, LSEG, nor NAREIT makes any warranty regarding the FTSE EPRA Nareit Developed ex-U.S. Index, FTSE EPRA Nareit Developed Green Target Index or FTSE EPRA Nareit Global REITs Index. “FTSE®” is a trademark of London Stock Exchange Group companies and is used by FTSE under license.
+©2023 BlackRock, Inc or its affiliates. All rights reserved. iSHARES, iBONDS and BLACKROCK are trademarks of BlackRock, Inc. or its affiliates. All other trademarks are those of their respective owners.
+iCRMH0323U/S-2742939",,,,,,,,,,,,,,,

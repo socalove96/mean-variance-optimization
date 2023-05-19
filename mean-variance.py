@@ -20,7 +20,7 @@ def main_test():
     from pandas_datareader import data
 
     # Get a list of S&P 500 tickers
-    tickers = pd.read_csv(r"models/mean-variance-model/company-tickers-output.csv")["Ticker"].tolist()
+    tickers = pd.read_csv(r"Models/mean-variance-optimization/company-tickers-output.csv")["Ticker"].tolist()
 
     # Select a random sample of 10 tickers
     tickers = np.random.choice(tickers, 10, replace=False)
